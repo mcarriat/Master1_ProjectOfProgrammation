@@ -22,7 +22,7 @@ Server installation, with the `http-server` package :
 To run the web application, browser use is required. Only Chrome and Firefox browser are guaranteed. Local node server is required (See below).
 
 ```
-cd Master1_ProjectOfProgrammation
+cd testclass
 http-server
 ```
 
